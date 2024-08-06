@@ -2,8 +2,6 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-
-sukabiru/README.md
 👋 Hi, I’m @sukabiru
 👀 I’m interested in Web3
 🌱 I’m currently learning Web3
